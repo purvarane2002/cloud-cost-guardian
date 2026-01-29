@@ -10,11 +10,22 @@ AWS cost + carbon monitoring tool that scans cloud resources and highlights pote
 ## Repo structure
 - `dashboard/` — Streamlit app
 - `lambda/` — scan + reporting scripts (Lambda-ready)
-- `scripts/` — local helper scripts (optional)
-- `docs/` — documentation assets
+• dashboard/ — Streamlit app
+• lambda/ — scan + reporting scripts (Lambda-ready)
 
 ## Run locally (dashboard)
 ```bash
 cd dashboard
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 streamlit run app.py
+
+## Tech Stack
+- Python
+- Streamlit
+- AWS (EC2, EBS, CloudWatch)
+- Boto3
+
+## Output
+- Estimated AWS cost usage
+- CO₂ impact metrics
+- Interactive dashboard insights
