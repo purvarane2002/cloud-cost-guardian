@@ -51,7 +51,7 @@ streamlit run app.py
 
 Make sure your AWS credentials are configured before running.
 
-⚙️ Technology Stack
+## ⚙️ Technology Stack
 Python
 
 Streamlit
@@ -62,7 +62,7 @@ Boto3
 
 Docker
 
-📄 Academic Context
+## 📄 Academic Context
 This project was developed as part of my MSc dissertation in Software Engineering (Cloud Computing).
 
 The research focused on:
@@ -77,7 +77,7 @@ Evaluating optimisation opportunities
 
 The full academic report is available upon request.
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 Extending the analysis to other AWS services such as RDS, S3, and Load Balancers
 
 Improving cost prediction using more accurate forecasting methods
