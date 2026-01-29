@@ -1,0 +1,16 @@
+# Ignore virtual environments, caches, system files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.log
+*.csv
+*.pdf
+*.zip
+
+# Ignore OS files
+.DS_Store
+.env
+venv/
+.venv/
