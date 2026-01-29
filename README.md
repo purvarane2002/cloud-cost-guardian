@@ -1,4 +1,4 @@
-#☁️ Cloud Cost Guardian
+# ☁️ Cloud Cost Guardian
 
 An automated AWS cost and carbon monitoring system that detects underutilised cloud resources and estimates potential financial and environmental savings.
 
@@ -47,9 +47,11 @@ cloud-cost-guardian/
 cd dashboard
 pip install -r requirements.txt
 streamlit run app.py
+```
+
 Make sure your AWS credentials are configured before running.
 
-##⚙️ Technology Stack
+⚙️ Technology Stack
 Python
 
 Streamlit
@@ -60,7 +62,7 @@ Boto3
 
 Docker
 
-##📄 Academic Context
+📄 Academic Context
 This project was developed as part of my MSc dissertation in Software Engineering (Cloud Computing).
 
 The research focused on:
@@ -75,7 +77,7 @@ Evaluating optimisation opportunities
 
 The full academic report is available upon request.
 
-##🔮 Future Enhancements
+🔮 Future Enhancements
 Extending the analysis to other AWS services such as RDS, S3, and Load Balancers
 
 Improving cost prediction using more accurate forecasting methods
@@ -88,8 +90,6 @@ Supporting monitoring across multiple AWS accounts
 
 Providing automated recommendations for cost and energy optimisation
 
-##👤 Author
-
-Purva Rane
-MSc Software Engineering (Cloud Computing)
+👤 Author
+Developed by Purva Rane
 GitHub: https://github.com/purvarane2002
