@@ -90,6 +90,7 @@ The full academic report is available upon request.
 
 - Providing automated recommendations for cost and energy optimisation
 
-👤 Author
+## 👤 Author
 Developed by Purva Rane
+
 GitHub: https://github.com/purvarane2002
