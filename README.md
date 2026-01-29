@@ -52,43 +52,43 @@ streamlit run app.py
 Make sure your AWS credentials are configured before running.
 
 ## ⚙️ Technology Stack
-Python
+- Python
 
-Streamlit
+- Streamlit
 
-AWS (EC2, EBS, Lambda, CloudWatch, S3)
+- AWS (EC2, EBS, Lambda, CloudWatch, S3)
 
-Boto3
+- Boto3
 
-Docker
+- Docker
 
 ## 📄 Academic Context
 This project was developed as part of my MSc dissertation in Software Engineering (Cloud Computing).
 
 The research focused on:
 
-Analysing cloud infrastructure inefficiencies
+- Analysing cloud infrastructure inefficiencies
 
-Quantifying financial and environmental impact
+- Quantifying financial and environmental impact
 
-Designing automated monitoring pipelines
+- Designing automated monitoring pipelines
 
-Evaluating optimisation opportunities
+- Evaluating optimisation opportunities
 
 The full academic report is available upon request.
 
 ## 🔮 Future Enhancements
-Extending the analysis to other AWS services such as RDS, S3, and Load Balancers
+- Extending the analysis to other AWS services such as RDS, S3, and Load Balancers
 
-Improving cost prediction using more accurate forecasting methods
+- Improving cost prediction using more accurate forecasting methods
 
-Enhancing detection of unusual or inefficient resource usage
+- Enhancing detection of unusual or inefficient resource usage
 
-Using more detailed regional data to improve carbon emission estimates
+- Using more detailed regional data to improve carbon emission estimates
 
-Supporting monitoring across multiple AWS accounts
+- Supporting monitoring across multiple AWS accounts
 
-Providing automated recommendations for cost and energy optimisation
+- Providing automated recommendations for cost and energy optimisation
 
 👤 Author
 Developed by Purva Rane
