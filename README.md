@@ -11,7 +11,15 @@ Cloud Cost Guardian helps identify wasted AWS infrastructure by analysing usage 
 - 💰 Estimated cost savings  
 - 🌱 Carbon emission impact  
 
-It supports data-driven optimisation for more sustainable cloud operations.
+It supports data-driven optimisation for more efficient and sustainable cloud operations.
+
+---
+
+## 🏗️ Architecture Diagram
+
+The system follows a serverless AWS architecture for automated cost monitoring and reporting:
+
+![Architecture Diagram](architecture-diagram.png)
 
 ---
 
@@ -29,8 +37,8 @@ It supports data-driven optimisation for more sustainable cloud operations.
 
 ## 🏗️ Project Structure
 
+
 cloud-cost-guardian/
-│
 ├── dashboard/ # Streamlit dashboard
 ├── lambda/ # Scanning and reporting scripts
 ├── scripts/ # Local helper scripts (optional)
